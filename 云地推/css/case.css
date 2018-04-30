@@ -1,0 +1,50 @@
+/*联系我们*/
+
+    .map_outer{
+    	background: #ededed;
+    padding: 80px 0 73px 0;min-width: 1200px;
+    }
+    .relation{margin: 0 auto; min-width: 1200px;max-width: 1200px;margin-left: 10px;}
+.relation_title{font-size: 26px;color: rgb(51,51,51);margin-bottom: 20px;}
+.relation_title span{font-weight: lighter;
+	font-size: 24px;
+	color: rgb(102,102,102);}
+.map_inner{margin: 0 auto; min-width: 1200px;max-width: 1200px;}
+.map_map{width: 863px;}
+#l_map{
+	 height: 525px;
+    width: 100%;
+}
+.map_address{ width: 327px;height: 525px;
+    background: #FFFFFF;float: right;
+   overflow-x: hidden; margin-top: -525px;
+    border: 1px solid #EDEDED; 
+}
+.map_address ul{
+	width: 325px;
+}
+.map_address ul li {
+	width: 317px;
+	height: 120px;
+	padding: 10px 0 0 10px;
+}
+.map_address ul li img{
+	width: 75px;
+	float: left;
+	padding: 8px 0px 0px 10px;
+}
+.address{
+	width: 210px;
+	float: right;
+	text-align: left;
+	padding: 5px 10px 5px 10px;
+	margin-right: 15px;
+}
+.nav_con .active{
+	color: rgb(18,197,250);
+    border-bottom: none;
+    background: none;
+}  
+#r-result{
+				width: 100%;
+			}  
